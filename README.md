@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/z3r0w0/r3bu5?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/z3r0w0/r3bu5?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/z3r0w0/r3bu5?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/z3r0w0/r3bu5?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/k46-db0y/r3bu5?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/k46-db0y/r3bu5?style=for-the-badge">
+  <img src="https://img.shields.io/github/issuesk46-db0y/r3bu5?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/k46-db0y/r3bu5?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-z3r0w0-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-k46-db0y-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
