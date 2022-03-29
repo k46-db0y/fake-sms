@@ -1,5 +1,8 @@
-# fake-sms
-![fai](https://user-images.githubusercontent.com/82051128/120921960-dd6f5600-c6df-11eb-99bf-b5c544172146.png)
+<!-- fake-sms -->
+
+<p align="center">
+  <img src=".imgs/logo.png">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.2-green?style=for-the-badge">
