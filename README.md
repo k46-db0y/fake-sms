@@ -33,15 +33,16 @@
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
 
 
-### Features:
-     1. SMS ANONYMOUSLY
-     2. SUPER FAST SMS SENDING
-     3. INTERNATIONAL SMS SENDING AVAILABLE.
-     4. YOU CAN SEND ONLY ONE SMS PER DAY.
-     5. NO CHARGES ON SENDING SMS.
-     6. VERY EASY TO USE.
+### Features
 
-### Installation:
+- SMS ANONYMOUSLY
+- SUPER FAST SMS SENDING
+- INTERNATIONAL SMS SENDING AVAILABLE.
+- YOU CAN SEND ONLY ONE SMS PER DAY.
+- NO CHARGES ON SENDING SMS.
+- VERY EASY TO USE.
+
+### Installation
      1. For Linux Users:
         a) git clone https://github.com/k46-db0y/fake-sms
         b) cd fake-sms then chmod +x run.sh
@@ -52,21 +53,17 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
         c) git clone https://github.com/k46-db0y/fake-sms
         d) cd fake-sms then chmod +x run.sh
         
-### Usage:
-     Just Type:  bash run.sh
+### Usage
+- Just Type:  bash run.sh
      
-# Note:
-     Use this script only for Educational Purpose.
-     *) If u get the error like Your number was not provided in the E.164 format so wait for sometime.....
-        the error is on the server side and will fix soon:)
-     
- # This Tool Tested On:
-     1. Parrot OS
-     2. Kali Linux
-     3. android ( Termux )
+### This Tool Tested On
+
+- Parrot OS
+- Kali Linux
+- android ( Termux )
        
-# Credit:
-     If You Like This Tool then Kindly Give us a star. Thanks.....
+### Credit:
+> If You Like This Tool then Kindly Give us a star. Thanks.....
      
 ### Find Me on :
 <p align="left">
