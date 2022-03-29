@@ -6,14 +6,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/licensek/46-db0y/fake-sms?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/k46-db0y/fake-sms?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/k46-db0y/fake-sms?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/k46-db0y/fake-sms?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/k46-db0y/fake-sms?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-k46-db0y-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Author-k46-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
