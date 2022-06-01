@@ -31,6 +31,7 @@ echo -e ${RED}""
 echo -e ${RED}" [${NC}-${RED}]${BLUE} Tool Created by k46_db0y (k46 db0y)"
 echo -e ${BlUE}""
 echo -e ${RED}" [${NC}-${RED}]${GREEN} https://github.com/k46_db0y"
+echo -e ${RED}" [${NC}-${RED}]${GREEN} https://discord.gg/db0y"
 
 }
 resize -s 38 70 > /dev/null
